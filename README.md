@@ -64,8 +64,7 @@ All three models significantly outperformed the best variable selection baseline
 AsteroidHazardClassification/
 ├── README.md
 ├── Team3_Hazardous_Celestial_Objects_Full_Analysis.Rmd   # Full analysis pipeline
-├── Final_Project_Report.docx                             # Written report
-└── Hazardous_Celestial_Objects_Presentation.pptx         # Final presentation
+
 ```
 
 ## Setup
